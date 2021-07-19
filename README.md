@@ -1,4 +1,4 @@
-## Hello Dear ! I'm Augusto
+## Hello ! I'm Augusto
  <div>
   <a href="https://github.com/AugustoBernardes">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
