@@ -10,7 +10,7 @@
   <img align="center" alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img width="120em" height="120em" align="right" alt="My-gif" src="https://media.giphy.com/media/CTfg7SZKO10Pe/giphy.gif">
+  <img width="120em" height="120em" align="right" alt="My-gif" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 </div>
   
   ##
