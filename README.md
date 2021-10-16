@@ -1,4 +1,10 @@
-## Hello ! I'm Augusto
+<h1 align="center">Hello ! I'm Augusto </h1>
+ <h3 align="center">My goals ⚜️</h3>
+    <h5 align="center">Become a Back-End developer</h5>
+    <h5 align="center">Move to Canadá in the future</h5>
+    <h5 align="center">Always learn new things</h5>
+    <h5 align="center">Help people through my codes</h5>
+ <hr>
  <div>
   <a href="https://github.com/AugustoBernardes">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,3 +31,4 @@
   ![Snake animation](https://github.com/AugustoBernardes/AugustoBernardes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
