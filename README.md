@@ -1,5 +1,5 @@
 <h1 align="center">Hello ! I'm Augusto </h1>
- <h3 align="center">My goals ⚜️</h3>
+ <h3 align="center">⚜️ My goals ⚜️</h3>
     <h5 align="center">Become a Back-End developer</h5>
     <h5 align="center">Move to Canadá in the future</h5>
     <h5 align="center">Always learn new things</h5>
