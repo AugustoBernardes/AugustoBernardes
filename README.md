@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! I'm Augusto </h1>
  <h3 align="center">⚜️ My goals ⚜️</h3>
-    <h5 align="center">Become a Back-End developer</h5>
+    <h5 align="center">Become a Senior Back-End developer</h5>
     <h5 align="center">Move to Canadá in the future</h5>
     <h5 align="center">Always learn new things</h5>
     <h5 align="center">Help people through my codes</h5>
@@ -16,6 +16,8 @@
   <img align="center" alt="My-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
   <img width="120em" height="120em" align="right" alt="My-gif" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 </div>
