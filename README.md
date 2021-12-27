@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/GilbertoASJ/GilbertoASJ/master/Code%20typing-bro.png" max-width="400px" width="400px" align="right">
 
-<h3 align="left"> Hello, I'm Augusto, welcome <img src="https://res.cloudinary.com/ddywdmynl/image/upload/v1640582037/Code_typing-bro_xdmd1r.png" width="30px"></h3>
+<h3 align="left"> Hello, I'm Augusto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 <h4>💻 Back-End Developer</h4>
 
