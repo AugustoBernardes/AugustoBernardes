@@ -1,27 +1,38 @@
-<h1 align="center">Hello ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I'm Augusto </h1>
-  <a href="https://github.com/AugustoBernardes">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="My-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="My-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="My-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="right" src="https://raw.githubusercontent.com/GilbertoASJ/GilbertoASJ/master/Code%20typing-bro.png" max-width="400px" width="400px" align="right">
 
-  <img width="120em" height="120em" align="right" alt="My-gif" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-</div>
-  
-  ##
+<h3 align="left"> Hello, I'm Augusto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
-<div> 
-  <a href="https://www.instagram.com/augusto_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h4>💻 Back-End Developer</h4>
+
+- <p>✈️ Expanding knowledge in Back-End <br> I'm studying: <strong>Serveless Aws and mySQL</strong><br></p>
+- <p>👨‍💻 Skills: <strong> NodeJs , Javascript, MongoDb and Git/GitHub </strong><br></p>
+<h4>⚙️ Skils</h4>
+<div>
+  <img  alt="My-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="My-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img  alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img  alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img  alt="My-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img  alt="My-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
+
+<h4>📱 Social </h4>
+<a href="https://www.instagram.com/augusto_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:augustobdev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-bernardes-a53b291bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.youtube.com/channel/UCGZMgoM8XlEO-DLX_jARlYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+ 
+</div>
+<br><br><br><br><br>
+ <a href="https://github.com/AugustoBernardes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark" style"max-width: 100%;" />
+ </a>
+  
+  ##
+<div> 
  
   ![Snake animation](https://github.com/AugustoBernardes/AugustoBernardes/blob/output/github-contribution-grid-snake.svg)
  
