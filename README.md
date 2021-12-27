@@ -26,9 +26,10 @@
 
 <br><br><br><br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark" >
-
+<div> 
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark" style"max-width: 100%;>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark" style"max-width: 100%;>
+</div>
  
 <div> 
  
