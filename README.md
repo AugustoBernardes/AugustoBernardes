@@ -26,10 +26,10 @@
 
 <br><br><br><br><br>
 <div style:"display: flex; flex-direction:row;">
-  <a href="https://github.com/AugustoBernardes">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark" style"max-width: 100%" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark" style"max-width:  100%;" />
- </a>
+
 </div>
  
 <div> 
