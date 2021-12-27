@@ -25,10 +25,10 @@
  <a href="https://www.youtube.com/channel/UCGZMgoM8XlEO-DLX_jARlYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
 <br><br><br><br><br>
-<div>
+<div style:"display: flex; flex-direction:row;">
   <a href="https://github.com/AugustoBernardes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark" style"max-width: 200px" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark" style"max-width:  200px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark" style"max-width: 100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark" style"max-width:  100%;" />
  </a>
 </div>
  
