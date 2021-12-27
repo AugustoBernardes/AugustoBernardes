@@ -24,9 +24,9 @@
  <a href="https://www.youtube.com/channel/UCGZMgoM8XlEO-DLX_jARlYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&theme=dark"/>
+  <a href="https://github.com/AugustoBernardes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustobernardes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustobernardes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div> 
