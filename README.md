@@ -5,7 +5,6 @@
 <h4>💻 Back-End Developer</h4>
 
 - <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Serveless Aws and SQL</strong><br></p>
-- <p> Working to:<strong> <a href="https://mestresdaweb.com.br/" target="_blank">Mestres da Web</a> </strong> <br></p>
 - <p> Main Skills: <strong> NodeJs , Javascript, MongoDb and Git/GitHub </strong><br></p>
 <h4>⚙️ Skills</h4>
 
