@@ -6,6 +6,7 @@
 
 - <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Serveless Aws and SQL</strong><br></p>
 - <p> Main Skills: <strong> NodeJs , Javascript, MongoDb and Git/GitHub </strong><br></p>
+- <p> Working as a volunteer in Canada's national student network</p>
 <h4>⚙️ Skills</h4>
 
 <div>
