@@ -1,11 +1,11 @@
 <img align="right" src="https://raw.githubusercontent.com/GilbertoASJ/GilbertoASJ/master/Code%20typing-bro.png" max-width="400px" width="400px" align="right">
 
-<h3 align="left"> Hello, I'm Augusto, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+<h3 align="left"> Hello, I'm Augusto, welcome!</h3>
 
 <h4>💻 Back-End Developer</h4>
 
-- <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Serveless Aws and SQL</strong><br></p>
-- <p> Main Skills: <strong> NodeJs , Javascript, MongoDb and Git/GitHub </strong><br></p>
+- <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Nest.Js and Clean Architecture</strong><br></p>
+- <p> Main Skills: <strong> NodeJs, Javascript, Typescript, PostgreSQL, MongoDb and Git/GitHub </strong><br></p>
 - <p> Working as a volunteer in Canada's national student network</p>
 <h4>⚙️ Skills</h4>
 
