@@ -4,7 +4,7 @@
 
 <h4>💻 Back-End Developer</h4>
 
-- <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Nest.Js and Clean Architecture</strong><br></p>
+- <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Clean Architecture, DDD and TDD</strong><br></p>
 - <p> Main Skills: <strong> NodeJs, Javascript, Typescript, PostgreSQL, MongoDb and Git/GitHub </strong><br></p>
 - <p> Working as a volunteer in Canada's national student network</p>
 <h4>⚙️ Skills</h4>
