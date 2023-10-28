@@ -4,9 +4,9 @@
 
 <h4>💻 Back-End Developer</h4>
 
-- <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Clean Architecture, DDD and TDD</strong><br></p>
-- <p> Main Skills: <strong> NodeJs, Javascript, Typescript, PostgreSQL, MongoDb and Git/GitHub </strong><br></p>
-- <p> Working as a volunteer in Canada's national student network</p>
+- <p> Expanding knowledge in Back-End <br> I'm studying: <strong>Clean Architecture, DDD , TDD and Algorithms and Data Structures</strong><br></p>
+- <p> Main Skills: <strong> NodeJs, Javascript, Typescript, PostgreSQL, MongoDb </strong><br></p>
+- <p> Back end developer at <a href="https://wiseup.com/pt/online/">Wise Up Online</a> and Fullstack Developer at <a href="https://www.nsncanada.org/">National Student Network Canadá</a></p>
 <h4>⚙️ Skills</h4>
 
 <div>
