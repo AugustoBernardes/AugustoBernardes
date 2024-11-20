@@ -1,4 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/GilbertoASJ/GilbertoASJ/master/Code%20typing-bro.png" max-width="400px" width="400px" align="right">
 
 <h3 align="left"> Hello, I'm Augusto, welcome!</h3>
 
